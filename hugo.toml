@@ -1,7 +1,7 @@
 baseurl      = "http://abdulsamad2002.github.io/"
 title        = "Abdul Samad"
 languageCode = "en-us"
-theme        = "hello-friend-ng"
+theme        = "PaperMod"
 paginate     = 5
 
 
