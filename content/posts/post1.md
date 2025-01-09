@@ -3,10 +3,6 @@ title: "Initiation"
 date: 2024-11-23T01:45:48+05:30
 draft: false
 toc: false
-images:
-tags:
-  - firstpost
-  - init
 ---
 
 This site will be a place where I can share my projects, knowledge, and experiences as I dive deeper into the world of Computer Science and Cybersecurity.

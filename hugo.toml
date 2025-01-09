@@ -1,7 +1,7 @@
 baseurl      = "http://abdulsamad2002.github.io/"
 title        = "Abdul Samad"
 languageCode = "en-us"
-theme        = "PaperMod"
+theme        = "hello-friend-ng"
 paginate     = 5
 
 
@@ -9,7 +9,7 @@ paginate     = 5
   dateform        = "Jan 2, 2006"
   dateformShort   = "Jan 2"
   dateformNum     = "2006-01-02"
-  dateformNumTime = "2006-01-02 15:04"
+  dateformNumTime = "2  006-01-02 15:04"
 
   enableRobotsTXT = true
   disableSitemap = false
@@ -22,7 +22,7 @@ paginate     = 5
   disableReadOtherPosts = false
 
   # Enable sharing buttons, if you like
-  enableSharingButtons = true
+  enableSharingButtons = false
   
   # Show a global language switcher in the navigation bar
   enableGlobalLanguageMenu = false
@@ -43,7 +43,7 @@ paginate     = 5
 
 [params.logo]
     logoMark     = ">"
-    logoText     = "Abdul Samad/"
+    logoText     = "ABDUL SAMAD/"
     logoHomeLink = "/"
     # Set true to remove the logo cursor entirely.
     logoCursorDisabled = false
