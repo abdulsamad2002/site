@@ -1,0 +1,99 @@
+baseurl      = "http://abdulsamad2002.github.io/"
+title        = "Abdul Samad"
+languageCode = "en-us"
+theme        = "hello-friend-ng"
+paginate     = 5
+
+
+[params]
+  dateform        = "Jan 2, 2006"
+  dateformShort   = "Jan 2"
+  dateformNum     = "2006-01-02"
+  dateformNumTime = "2006-01-02 15:04"
+
+  enableRobotsTXT = true
+  disableSitemap = false
+  enableThemeToggle = true
+
+  # Subtitle for home
+  homeSubtitle = "Upcoming Security Engineer"
+
+  # Set disableReadOtherPosts to true in order to hide the links to other posts.
+  disableReadOtherPosts = false
+
+  # Enable sharing buttons, if you like
+  enableSharingButtons = true
+  
+  # Show a global language switcher in the navigation bar
+  enableGlobalLanguageMenu = false
+
+  # Metadata mostly used in document's head
+  description = "Blog"
+  keywords = "homepage, blog"
+  images = [""]
+
+[taxonomies]
+   category = "blog"
+   tag      = "tags"
+   series   = "series"
+
+ [params.author]
+    name = "Abdul Samad"
+
+
+[params.logo]
+    logoMark     = ">"
+    logoText     = "Abdul Samad/"
+    logoHomeLink = "/"
+    # Set true to remove the logo cursor entirely.
+    logoCursorDisabled = false
+    # Set to a valid CSS color to change the cursor in the logo.
+    logoCursorColor    = "#4AF626"
+    # Set to a valid CSS time value to change the animation duration, "0s" to disable.
+    # logoCursorAnimate  = "2s"
+    # Append the current url pathname to logoText 
+     logoCursorPathname = true
+
+
+  # And you can even create generic menu
+
+
+  [[menu.main]]
+    identifier = "blog"
+    name       = "Blog"
+    url        = "/posts"
+
+  [[menu.main]]
+    identifier = "about"
+    name = "About"
+    url = "/about"
+
+    [[menu.main]]
+    identifier = "resume"
+    name = "Resume"
+    url = "https://drive.google.com/file/d/1vINmNShRBDQ47aMQSTe3ls-FtJnApi4O/view?usp=sharing"
+
+
+[[params.social]]
+  name = "linkedin"
+  url = "https://www.linkedin.com/in/abdulsamad4"
+
+[[params.social]]
+  name = "tryhackme"
+  url = "https://www.tryhackme.com/p/samad1"
+
+[[params.social]]
+  name = "github"
+  url = "https://github.com/abdulsamad2002"
+
+[[params.social]]
+  name = "hackthebox"
+  url = "<profile_URL>"
+
+[[params.social]]
+  name = "discord"
+  url = "<profile_URL>"
+
+[[params.social]]
+  name = "email"
+  url = "mailto:blackhawkalpha009@gmail.com"
