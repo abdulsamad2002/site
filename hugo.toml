@@ -1,4 +1,4 @@
-baseurl      = "http://abdulsamad2002.github.io/"
+baseurl      = "https://abdulsamad2002.github.io/"
 title        = "Abdul Samad"
 languageCode = "en-us"
 theme        = "hello-friend-ng"
@@ -9,7 +9,7 @@ paginate     = 5
   dateform        = "Jan 2, 2006"
   dateformShort   = "Jan 2"
   dateformNum     = "2006-01-02"
-  dateformNumTime = "2  006-01-02 15:04"
+  dateformNumTime = "2006-01-02 15:04"
 
   enableRobotsTXT = true
   disableSitemap = false
@@ -43,7 +43,7 @@ paginate     = 5
 
 [params.logo]
     logoMark     = ">"
-    logoText     = "ABDUL SAMAD/"
+    logoText     = "samad/"
     logoHomeLink = "/"
     # Set true to remove the logo cursor entirely.
     logoCursorDisabled = false
@@ -60,7 +60,7 @@ paginate     = 5
 
   [[menu.main]]
     identifier = "blog"
-    name       = "Blog"
+    name       = "Posts"
     url        = "/posts"
 
   [[menu.main]]
@@ -71,7 +71,7 @@ paginate     = 5
     [[menu.main]]
     identifier = "resume"
     name = "Resume"
-    url = "https://drive.google.com/file/d/1vINmNShRBDQ47aMQSTe3ls-FtJnApi4O/view?usp=sharing"
+    url = "https://drive.google.com/file/d/1hE2mfQ_-48skQNy_Tz0zjeU1n0gCOx7R/view?usp=sharing"
 
 
 [[params.social]]
